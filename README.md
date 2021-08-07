@@ -1,0 +1,2 @@
+# RedTille
+Ola, sou uma iniciante no python, já faz algum tempo, tiver uma ideia de criar uma stcrip onde ele leria a legenda do video, na hora quando a legenda aparecesse sugere uma voz para ler a legenda, até agora "ISSO DEU CERTO", mas alguns legenda ele não consegue fazer esse feito, pois vira uma bagunça, estão como o meu tempo é custo, decidem compartilhar essa ideia, para mais pessoas possam melhor o código. 
